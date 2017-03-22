@@ -1,0 +1,12 @@
+D:\Project Robert Centre\Project_actual\RobertCentreGroup1\RobertCentreGroup1\bin\Debug\RobertCentreGroup1.exe
+D:\Project Robert Centre\Project_actual\RobertCentreGroup1\RobertCentreGroup1\bin\Debug\RobertCentreGroup1.pdb
+D:\Project Robert Centre\Project_actual\RobertCentreGroup1\RobertCentreGroup1\bin\Debug\RobertCentreGroup1.xml
+D:\Project Robert Centre\Project_actual\RobertCentreGroup1\RobertCentreGroup1\obj\Debug\RobertCentreGroup1.Act1UI.resources
+D:\Project Robert Centre\Project_actual\RobertCentreGroup1\RobertCentreGroup1\obj\Debug\RobertCentreGroup1.AvatarUI.resources
+D:\Project Robert Centre\Project_actual\RobertCentreGroup1\RobertCentreGroup1\obj\Debug\RobertCentreGroup1.HomeUI.resources
+D:\Project Robert Centre\Project_actual\RobertCentreGroup1\RobertCentreGroup1\obj\Debug\RobertCentreGroup1.MapUI.resources
+D:\Project Robert Centre\Project_actual\RobertCentreGroup1\RobertCentreGroup1\obj\Debug\RobertCentreGroup1.Resources.resources
+D:\Project Robert Centre\Project_actual\RobertCentreGroup1\RobertCentreGroup1\obj\Debug\RobertCentreGroup1.vbproj.GenerateResource.Cache
+D:\Project Robert Centre\Project_actual\RobertCentreGroup1\RobertCentreGroup1\obj\Debug\RobertCentreGroup1.exe
+D:\Project Robert Centre\Project_actual\RobertCentreGroup1\RobertCentreGroup1\obj\Debug\RobertCentreGroup1.xml
+D:\Project Robert Centre\Project_actual\RobertCentreGroup1\RobertCentreGroup1\obj\Debug\RobertCentreGroup1.pdb
